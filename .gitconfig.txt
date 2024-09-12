@@ -1,0 +1,7 @@
+[user]
+	name = cgonzalez-UT
+	email = christiangon2004@utexas.edu
+[core]
+	editor = notepad
+[credential]
+	helper = store
